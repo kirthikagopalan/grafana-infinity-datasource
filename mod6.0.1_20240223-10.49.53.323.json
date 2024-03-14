@@ -1,1 +1,37 @@
-{"Module": {"Version": {"SerialNumber": "1000467017", "HwVersion": 1, "ProdVersion": 255, "BGType": 25683, "Device": 10, "Modell": 2, "Vendor": 1, "BGType.string": "X-SB 01", "Firmware": {"OS": {"Index": 0, "MagicKey": 2734372769, "Crc": 712007426, "Version": "7.54", "InfoType": 0}, "OSL": {"Index": 0, "MagicKey": 2734372778, "Crc": 2328755240, "Version": "6.0", "InfoType": 1}, "BL": {"Index": 0, "MagicKey": 2734372783, "Crc": 3065138597, "Version": "1.0", "InfoType": 2}}}}}
+{
+  "Module": {
+    "Version": {
+      "SerialNumber": "1000467017",
+      "HwVersion": 1,
+      "ProdVersion": 255,
+      "BGType": 25683,
+      "Device": 10,
+      "Modell": 2,
+      "Vendor": 1,
+      "BGType.string": "X-SB 01",
+      "Firmware": {
+        "OS": {
+          "Index": 0,
+          "MagicKey": 2734372769,
+          "Crc": 712007426,
+          "Version": "7.54",
+          "InfoType": 0
+        },
+        "OSL": {
+          "Index": 0,
+          "MagicKey": 2734372778,
+          "Crc": 2328755240,
+          "Version": "6.0",
+          "InfoType": 1
+        },
+        "BL": {
+          "Index": 0,
+          "MagicKey": 2734372783,
+          "Crc": 3065138597,
+          "Version": "1.0",
+          "InfoType": 2
+        }
+      }
+    }
+  }
+}
